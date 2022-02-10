@@ -44,6 +44,6 @@
     "@testing-library/jest-dom": "^4.1.0",
     "@testing-library/react": "^9.1.4",
     "babel-loader": "^8.0.6",
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   }
 }
